@@ -30,3 +30,13 @@ Nota: você deve abrir três janelas do CMD para que em cada uma delas você pos
 <img src="https://user-images.githubusercontent.com/62674890/94321939-68039100-ff67-11ea-82a8-a4e1d757112f.PNG" width="390" height="178"> <img src="https://user-images.githubusercontent.com/62674890/94321995-9a14f300-ff67-11ea-9d3b-60fe5773ee16.PNG" width="390" height="178">
 ## Telas Mobile
 <img src="https://user-images.githubusercontent.com/62674890/94322025-b0bb4a00-ff67-11ea-9079-d49ab516363b.jpeg" width="200" height="433"> <img src="https://user-images.githubusercontent.com/62674890/94322059-c466b080-ff67-11ea-9921-29930b733ede.jpeg" width="200" height="433">
+
+## O que foi aprendido neste projeto?
+#### Com este projeto tive a oportunidade aprender a desenvolver uma aplicação do zero usanso Reactjs no front-end, Nodejs no Back-end e React Native no Mobile abordando algumas tecnologias como:
+- Expo
+- Express
+- Nodemon
+- Axios
+- Cors
+- Knexfile
+#### 
