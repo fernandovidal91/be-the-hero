@@ -14,7 +14,7 @@ git clone https://github.com/fernandovidal91/be-the-hero.git
 cd be-the-hero
 # Depois você deve entrar na pasta frontend, backend e mobile e em cada uma delas executar
 npm install
-# Depois usando uma aba do CMD para cada pasta execute
+# Depois usando uma janela do CMD para cada pasta execute
 npm start
 # Para navegar entre as pastas você pode utilizar os seguintes comandos
   # Avança para a próxima pasta
@@ -22,3 +22,5 @@ npm start
   # Volta para a pasta anterior
   cd..
 ```
+
+Nota: você deve abrir três janelas do CMD para que em cada uma delas você possa executar uma determinada pasta do projeto, assim tendo acesso a versão web e mobile ao mesmo tempo
