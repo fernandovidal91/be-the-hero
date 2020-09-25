@@ -5,3 +5,4 @@
 #### Be The Hero é uma plataforma onde ongs protetoras de animais podem pedir ajuda financeira para tratar e cuidar de animais abandonados que sofreram maus tratos humanos como atropelamento, espancamento, queimaduras, prisão em correntes, abandono entre outras crueldades mais graves.
 
 ## Quer rodas está aplicação na sua máquina?
+####Primeiro você precisa ter instalado em sua maquina o [Git](https://git-scm.com) e o [Node.js](https://nodejs.org/en/download/) para que possamos clonar e startar o projeto. Em seguida abra o CMD em modo administrador, e vá até a pasta onde deseja que o projeto fique e execute os seguintes comandos: 
