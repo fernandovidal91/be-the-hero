@@ -23,7 +23,7 @@ npm start
   cd..
 ```
 
-Nota: você deve abrir três janelas do CMD para que em cada uma delas você possa executar uma determinada pasta do projeto, assim tendo acesso a versão web e mobile ao mesmo tempo
+Nota: você deve abrir três janelas do CMD para que em cada uma delas você possa executar uma determinada pasta do projeto, assim tendo acesso a versão web e mobile ao mesmo tempo.
 
 ## Telas Web
 <img src="https://user-images.githubusercontent.com/62674890/94321972-86698c80-ff67-11ea-8a6a-e31b36eccde0.PNG" width="390" height="178"> <img src="https://user-images.githubusercontent.com/62674890/94321879-460a0e80-ff67-11ea-9d0f-1ee289fa9361.PNG" width="390" height="178">
@@ -32,11 +32,10 @@ Nota: você deve abrir três janelas do CMD para que em cada uma delas você pos
 <img src="https://user-images.githubusercontent.com/62674890/94322025-b0bb4a00-ff67-11ea-9079-d49ab516363b.jpeg" width="200" height="433"> <img src="https://user-images.githubusercontent.com/62674890/94322059-c466b080-ff67-11ea-9921-29930b733ede.jpeg" width="200" height="433">
 
 ## O que foi aprendido neste projeto?
-#### Com este projeto tive a oportunidade aprender a desenvolver uma aplicação do zero usanso Reactjs no front-end, Nodejs no Back-end e React Native no Mobile abordando algumas tecnologias como:
+#### Com este projeto tive a oportunidade aprender a desenvolver uma aplicação do zero usando Reactjs no front-end, Nodejs no Back-end e React Native no Mobile abordando algumas tecnologias como:
 - Expo
 - Express
 - Nodemon
 - Axios
 - Cors
 - Knexfile
-#### 
