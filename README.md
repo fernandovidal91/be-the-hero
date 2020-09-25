@@ -27,4 +27,4 @@ Nota: você deve abrir três janelas do CMD para que em cada uma delas você pos
 
 ## Prints
 <img src="https://user-images.githubusercontent.com/62674890/94321972-86698c80-ff67-11ea-8a6a-e31b36eccde0.PNG" width="390" height="178"> <img src="https://user-images.githubusercontent.com/62674890/94321879-460a0e80-ff67-11ea-9d0f-1ee289fa9361.PNG" width="390" height="178">
-<img src="https://github.com/fernandovidal91/be-the-hero/issues/4#issue-709329888" width="390" height="178"> <img src="https://github.com/fernandovidal91/be-the-hero/issues/6#issue-709330449" width="390" height="178">
+<img src="https://user-images.githubusercontent.com/62674890/94321939-68039100-ff67-11ea-82a8-a4e1d757112f.PNG" width="390" height="178"> <img src="https://user-images.githubusercontent.com/62674890/94321995-9a14f300-ff67-11ea-9d3b-60fe5773ee16.PNG" width="390" height="178">
