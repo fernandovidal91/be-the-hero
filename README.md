@@ -21,7 +21,7 @@ npm start
   cd pasta-de-destino
   # Volta para a pasta anterior
   cd..
-# Em seguida entra em "mobile/src/services/api.js" e ná linha 4 altere o "seu_ip_do_computador" colocando o IP de sua máquina
+# Em seguida entre em "mobile/src/services/api.js" e na linha 4 altere o "seu_ip_do_computador" colocando o IP de sua máquina
 ```
 
 Nota: você deve abrir três janelas do CMD para que em cada uma delas você possa executar uma determinada pasta do projeto, assim tendo acesso a versão web e mobile ao mesmo tempo.
