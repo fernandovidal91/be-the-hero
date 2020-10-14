@@ -40,3 +40,4 @@ Nota: você deve abrir três janelas do CMD para que em cada uma delas você pos
 - Axios
 - Cors
 - Knexfile
+- SQLite
